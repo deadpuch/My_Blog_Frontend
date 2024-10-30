@@ -17,7 +17,7 @@ const Nav = () => {
         <Link to={"/"}>
           <div className="h-[50px] w-[50px] mx-2">
             <img
-              src="../../public/images/logo.png"
+              src="images/logo.png"
               alt=""
               className="w-full h-full block"
             />
